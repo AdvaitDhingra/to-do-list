@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdvaitDhingra.github.io/to-do-list/static/css/main.e5f0b30f.chunk.css",
+    "main.js": "/AdvaitDhingra.github.io/to-do-list/static/js/main.30ee0e32.chunk.js",
+    "main.js.map": "/AdvaitDhingra.github.io/to-do-list/static/js/main.30ee0e32.chunk.js.map",
+    "runtime-main.js": "/AdvaitDhingra.github.io/to-do-list/static/js/runtime-main.42951b76.js",
+    "runtime-main.js.map": "/AdvaitDhingra.github.io/to-do-list/static/js/runtime-main.42951b76.js.map",
+    "static/js/2.cfe33932.chunk.js": "/AdvaitDhingra.github.io/to-do-list/static/js/2.cfe33932.chunk.js",
+    "static/js/2.cfe33932.chunk.js.map": "/AdvaitDhingra.github.io/to-do-list/static/js/2.cfe33932.chunk.js.map",
+    "static/js/3.c26439df.chunk.js": "/AdvaitDhingra.github.io/to-do-list/static/js/3.c26439df.chunk.js",
+    "static/js/3.c26439df.chunk.js.map": "/AdvaitDhingra.github.io/to-do-list/static/js/3.c26439df.chunk.js.map",
+    "index.html": "/AdvaitDhingra.github.io/to-do-list/index.html",
+    "static/css/main.e5f0b30f.chunk.css.map": "/AdvaitDhingra.github.io/to-do-list/static/css/main.e5f0b30f.chunk.css.map",
+    "static/js/2.cfe33932.chunk.js.LICENSE.txt": "/AdvaitDhingra.github.io/to-do-list/static/js/2.cfe33932.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42951b76.js",
+    "static/js/2.cfe33932.chunk.js",
+    "static/css/main.e5f0b30f.chunk.css",
+    "static/js/main.30ee0e32.chunk.js"
+  ]
+}
