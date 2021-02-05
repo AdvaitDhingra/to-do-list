@@ -12,6 +12,8 @@ var firebaseConfig = {
   };
   // Initialize Firebase
   var fire = firebase.initializeApp(firebaseConfig);
+  export var provider = new firebase.auth.GoogleAuthProvider();
   firebase.analytics();
 
   export default fire
+
